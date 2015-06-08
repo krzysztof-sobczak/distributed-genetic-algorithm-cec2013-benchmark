@@ -7,9 +7,11 @@ http://www.ntu.edu.sg/home/EPNSugan/index_files/CEC2013/Definitions%20of%20%20CE
 ## Running benchmark 
 
 Standard Genetic Algorithm:
+
 R> source('Benchmark.R')
 
 Distributed Genetic Algorithm:
+
 R> source('BenchmarkDGA.R')
 
 ## Standard Genetic Algorithm structure
